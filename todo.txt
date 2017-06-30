@@ -1,0 +1,10 @@
+Python
+Sqoop
+MapR with Python
+Pig
+Hive
+Hbase
+
+HDFS
+KNOX
+Ranger
